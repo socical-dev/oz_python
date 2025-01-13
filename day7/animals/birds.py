@@ -1,4 +1,4 @@
-from __init__ import InitAnimals
+from animals import InitAnimals
 
 class Eagle(InitAnimals):
     def __init__(self, name, wingspan):
